@@ -1,0 +1,6 @@
+test-wp.1debit.com
+1debit.com
+processor.1debit.com
+test2.1debit.com
+ua.1debit.com
+test.1debit.com

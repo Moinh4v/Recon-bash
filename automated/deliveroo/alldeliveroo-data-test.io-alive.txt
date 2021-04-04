@@ -1,0 +1,9 @@
+https://api.canoe-staging-k8s.deliveroo-data-test.io
+https://jenkins-canoe-staging.deliveroo-data-test.io
+https://integration.deliveroo-data-test.io
+https://kibana-canoe-staging.deliveroo-data-test.io
+https://restaurant-data-api.deliveroo-data-test.io
+https://grafana-canoe-staging.deliveroo-data-test.io
+https://traffic.deliveroo-data-test.io
+https://order-status.deliveroo-data-test.io
+https://api.canoe-staging-k8s.deliveroo-data-test.io

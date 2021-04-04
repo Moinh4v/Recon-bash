@@ -1,0 +1,15 @@
+www.secure.skyscanner.net
+uk2.partners.api.skyscanner.net
+test.api.skyscanner.net
+hk1.partners.api.skyscanner.net
+uk1.partners.api.skyscanner.net
+int.api.skyscanner.net
+dev.api.skyscanner.net
+whitelabel.api.skyscanner.net
+api.skyscanner.net
+staging.api.skyscanner.net
+www.api.skyscanner.net
+yj.partners.api.skyscanner.net
+sg1.partners.api.skyscanner.net
+partners.api.skyscanner.net
+secure.skyscanner.net
